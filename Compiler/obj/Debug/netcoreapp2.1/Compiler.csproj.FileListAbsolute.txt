@@ -1,0 +1,12 @@
+C:\Users\Денис\source\repos\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\Денис\source\repos\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\Денис\source\repos\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Денис\source\repos\Compiler\obj\Debug\netcoreapp2.1\Compiler.genruntimeconfig.cache
